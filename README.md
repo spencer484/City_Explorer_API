@@ -17,3 +17,13 @@ Set up a server with Express
 
 ## Change Log
 9/16/2020 9:29pm: Back to square one. Setting up the repo and file structure.
+
+Number and name of feature: Location
+
+Estimate of time needed to complete: Forever
+
+Start time: 9:30pm
+
+Finish time: 11:20pm
+
+Actual time needed to complete: More
